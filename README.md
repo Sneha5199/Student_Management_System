@@ -13,8 +13,8 @@ Simple CRUD API using **Spring Boot**, **Spring Data JPA**, and **MySQL**.
 |-----------|-----------|----------------|
 | **🟢 GET** | `/students` | Get all students |
 | **🟢 GET** | `/students/{id}` | Get student by ID |
-| **🟠 POST** | `/student/add` | Create a new student |
-| **🔵 PUT** | `/student/update/{id}` | Update student details |
+| **🟠 POST** | `/students/add` | Create a new student |
+| **🔵 PUT** | `/students/update/{id}` | Update student details |
 | **🔴 DELETE** | `/student/delete/{id}` | Delete a student |
 
 ## ⚙️ Setup Instructions  
